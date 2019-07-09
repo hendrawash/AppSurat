@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a7beb676-2100-4095-9ce4-e4468ff86827" namespace="DbSurat" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="Surat" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="f0b56668-5d06-40a5-81fe-fa7c6be7c90c">
+      <xpObject Id="bc074b46-fd23-479f-a77f-5d4c0e315499" name="Pangkat" baseClass="XPLiteObject" userFileName="Pangkat" designerFileName="Pangkat.Designer" className="Pangkat" virtualBaseClass="XPLiteObject" persistent="Pangkat" virtualName="Pangkat">
+        <fields>
+          <generalXpObjectHasFields Id="c4a86f80-25f0-44a0-9432-5c15a801278f">
+            <field Id="3f7f9428-0ff3-407b-bc5f-aaea92f005db" name="Golongan" persistent="Golongan" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="442f72df-6f44-4fce-978d-c4bd662d7019">
+            <field Id="17eff075-5244-4a26-876f-0335f96aca4f" name="ID" columnType="Int32" key="true" isIdentity="true" persistent="ID" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b58103a0-9e5e-4dee-b83b-4a579c83a1be">
+            <field Id="6d1956ae-6095-4a26-94c0-e9d91cb835dd" name="PangkatValue" persistent="Pangkat" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+        </fields>
+        <indexes>
+          <xpObjectHasIndexes Id="78fa100f-f73b-411f-bfb7-f5fc416a5f66">
+            <index Id="6143b89f-79f8-4bde-b4f4-e6d3fb8dea71" name="Golongan" unique="true">
+              <fieldsInIndex>
+                <indexReferencesFields Id="7159de63-a703-4079-ba24-c115bf4ae104">
+                  <fieldMoniker Id="3f7f9428-0ff3-407b-bc5f-aaea92f005db" />
+                </indexReferencesFields>
+              </fieldsInIndex>
+            </index>
+          </xpObjectHasIndexes>
+          <xpObjectHasIndexes Id="827f6bd7-7060-4f01-b37c-8e6bd904d771">
+            <index Id="304a286d-cf14-48c1-8d1f-756fb59060c0" name="Pangkat" unique="true">
+              <fieldsInIndex>
+                <indexReferencesFields Id="bb910d3b-bf85-40db-8309-5d6c4f7d7041">
+                  <fieldMoniker Id="6d1956ae-6095-4a26-94c0-e9d91cb835dd" />
+                </indexReferencesFields>
+              </fieldsInIndex>
+            </index>
+          </xpObjectHasIndexes>
+        </indexes>
+        <saTargets>
+          <simpleAssociation Id="63aafc72-cd00-4d7c-95c1-46a0023b90b5" sourceCollectionName="Pegawais" name="PegawaiReferencesPangkat" targetFieldName="Pangkat">
+            <xpObjectMoniker Id="aaae703c-b81c-47a2-abbf-c11e1f664ce8" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="471b9ad7-d98f-47e8-9612-1d808f4dca4f">
+            <collectionField Id="71917879-f7e2-48bf-a7e7-20ed9b762a03" name="Pegawais" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="60e254ae-d346-41fa-8131-fd1bc73a60b6">
+      <xpObject Id="aaae703c-b81c-47a2-abbf-c11e1f664ce8" name="Pegawai" baseClass="XPLiteObject" userFileName="Pegawai" designerFileName="Pegawai.Designer" className="Pegawai" virtualBaseClass="XPLiteObject" persistent="Pegawai" virtualName="Pegawai">
+        <fields>
+          <generalXpObjectHasFields Id="c9f125c3-68a1-46cc-aa2b-0c6d855b0a45">
+            <field Id="cf5ee0a5-4181-4b71-9fac-748b0b905478" name="ID" columnType="Int32" key="true" isIdentity="true" persistent="ID" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="cec55e60-ff97-4738-a927-5577cbdf0d0b">
+            <field Id="ca26bcfc-a169-46ef-821f-b954b9b04350" name="Nama" persistent="Nama" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f1bfd30c-897e-47cb-9e10-4e6668cf892f">
+            <field Id="cece5318-f621-41d3-b125-4ca479bfffcc" name="Nip" persistent="Nip" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="bbd72960-bf93-47bb-8f41-a104c5e19841">
+            <field Id="ae2b2e0e-212e-4157-9012-0dd4c3648ab8" name="Pangkat" columnType="Int32" persistent="Pangkat" virtualColumnType="Pangkat" logicalType="Pangkat" delayedUpdateModifiedOnly="false" defaultValue="Int32#0" dbDefaultValue="0" />
+          </generalXpObjectHasFields>
+        </fields>
+        <indexes>
+          <xpObjectHasIndexes Id="374359ea-5d05-4e48-9b33-b0eec0de226b">
+            <index Id="d527f7a1-1055-413c-b99d-0726d2df0c8c" name="Nip" unique="true">
+              <fieldsInIndex>
+                <indexReferencesFields Id="80300eeb-b6ce-4df5-ad19-1f1576d1b554">
+                  <fieldMoniker Id="cece5318-f621-41d3-b125-4ca479bfffcc" />
+                </indexReferencesFields>
+              </fieldsInIndex>
+            </index>
+          </xpObjectHasIndexes>
+        </indexes>
+        <saTargets>
+          <simpleAssociation Id="237ee91e-a20d-45ec-88c3-78908e219ca1" sourceCollectionName="Surats" name="SuratReferencesPegawai" targetFieldName="Pemesan">
+            <xpObjectMoniker Id="b7d0cc68-ef86-4b02-ae4f-d1378a2917d1" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="846c152c-9744-42bb-8ff5-67eb92f67990">
+            <collectionField Id="d48e46ac-54e2-4cfc-be96-4b7a982c24e5" name="Surats" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="e2288fdb-e245-4c4a-94e8-235e8961ff36">
+      <xpObject Id="05313308-96b5-4760-b4d8-e8ccb63426dc" name="IndexSurat" baseClass="XPLiteObject" userFileName="IndexSurat" designerFileName="IndexSurat.Designer" className="IndexSurat" virtualBaseClass="XPLiteObject" persistent="IndexSurat" virtualName="IndexSurat">
+        <fields>
+          <generalXpObjectHasFields Id="c2cbb937-329a-42e4-a039-612fa0aad289">
+            <field Id="50b19350-1075-4b5a-a37c-2c3811801af3" name="ID" columnType="Int32" key="true" isIdentity="true" persistent="ID" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4bf55049-9fcf-44b8-bd3f-e28ad7968753">
+            <field Id="947bc74f-45e1-4ca0-824e-3e9ce93028e3" name="Index" persistent="Index" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="39235a40-6098-4480-a839-31c26aaf8115">
+            <field Id="e12222f3-82a0-4300-9fa1-84d076454b70" name="Keperluan" persistent="Keperluan" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+        </fields>
+        <indexes>
+          <xpObjectHasIndexes Id="0e0e6b33-707b-432f-9744-8483dc5ed02b">
+            <index Id="9f03d726-7f73-46ab-bccd-90e03bfbdbf0" unique="true">
+              <fieldsInIndex>
+                <indexReferencesFields Id="59e5aaa2-8299-4748-ad79-b5922c7f1701">
+                  <fieldMoniker Id="947bc74f-45e1-4ca0-824e-3e9ce93028e3" />
+                </indexReferencesFields>
+              </fieldsInIndex>
+            </index>
+          </xpObjectHasIndexes>
+        </indexes>
+        <saTargets>
+          <simpleAssociation Id="a22131b8-3856-4ceb-a32f-1adac325ca36" sourceCollectionName="Surats" name="SuratReferencesIndexSurat" targetFieldName="IndexSurat">
+            <xpObjectMoniker Id="b7d0cc68-ef86-4b02-ae4f-d1378a2917d1" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="c691dd41-fd9e-426a-89f5-5c4da8f1e953">
+            <collectionField Id="26389b7f-4ca4-46b8-ab38-c6b0cd10ce1e" name="Surats" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="5b097e8f-7416-4ff4-bd4c-0c1ff25af5b9">
+      <xpObject Id="b7d0cc68-ef86-4b02-ae4f-d1378a2917d1" name="Surat" baseClass="XPLiteObject" userFileName="Surat" designerFileName="Surat.Designer" className="Surat" virtualBaseClass="XPLiteObject" persistent="Surat" virtualName="Surat">
+        <fields>
+          <generalXpObjectHasFields Id="122201d9-49ed-409e-a239-83d71cac299f">
+            <field Id="9f42cb58-1173-40bc-a4d1-2cdcc0ce4816" name="ID" columnType="Int32" key="true" isIdentity="true" persistent="ID" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="41d53833-c71d-47e2-9c06-5edaa78a89c9">
+            <field Id="8af297e5-12c3-40d5-a9e0-a974f6f4752f" name="IndexSurat" columnType="Int32" persistent="IndexSurat" virtualColumnType="IndexSurat" logicalType="IndexSurat" delayedUpdateModifiedOnly="false" defaultValue="Int32#0" dbDefaultValue="0" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="552ac2fa-b72d-47f0-a626-e89dd01cd7df">
+            <field Id="03861a11-0d91-4533-ac49-c68ba570f10e" name="Keperluan" persistent="Keperluan" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="cbba6d48-6237-477e-955d-46174ce50684">
+            <field Id="e55192ec-0a06-41de-b492-cff7ecabf4ce" name="NoSurat" columnType="Int32" persistent="NoSurat" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="8781ed26-36c0-4009-86d7-bcadc229e591">
+            <field Id="a61c2889-3234-4496-9d12-65410eb7b721" name="Pemesan" columnType="Int32" persistent="Pemesan" virtualColumnType="Pegawai" logicalType="Pegawai" delayedUpdateModifiedOnly="false" defaultValue="Int32#0" dbDefaultValue="0" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="03b1fba2-8112-4586-a146-b9e262be3245">
+            <field Id="b776473a-3ea1-46a2-bd52-92b3522da4b3" name="Tanggal" columnType="DateTime" persistent="Tanggal" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <indexes>
+          <xpObjectHasIndexes Id="e9958051-0f66-49b6-9faa-ecdbccbd0b59">
+            <index Id="a06258db-f939-4c4e-9eee-a36bb686842e" name="NoSurat" unique="true">
+              <fieldsInIndex>
+                <indexReferencesFields Id="66bc95d3-8ef5-4d69-bccb-38f364502c8b">
+                  <fieldMoniker Id="e55192ec-0a06-41de-b492-cff7ecabf4ce" />
+                </indexReferencesFields>
+              </fieldsInIndex>
+            </index>
+          </xpObjectHasIndexes>
+        </indexes>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
